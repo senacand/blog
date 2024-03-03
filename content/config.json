@@ -1,0 +1,44 @@
+{
+  "title": "Sena's Blog",
+  "url": "https://blog.sena.dev",
+  "subtitle": "Random thoughts.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Posts",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    }
+  ],
+  "author": {
+    "name": "Sena Cahya",
+    "photo": "/photo.jpg",
+    "bio": "Software Engineer, mainly iOS Engineer. Flutter for hobby. Random software engineering things during free time.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "senacand",
+      "facebook": "#",
+      "telegram": "#",
+      "twitter": "#",
+      "linkedin": "#",
+      "instagram": "#",
+      "mastodon": "#",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": "",
+      "bluesky": ""
+    }
+  }
+}
